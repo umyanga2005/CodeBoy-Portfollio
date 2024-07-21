@@ -358,18 +358,6 @@ function zero(number) {
 
 setInterval(clock, 1000);
 
-// Detect when the page is reloaded or refreshed
-window.addEventListener('beforeunload', function(event) {
-    document.cookie = 'reload=true; path=/CodeBoy-Portfollio';
-});
-
-window.addEventListener('DOMContentLoaded', function() {
-    if (document.cookie.includes('reload=true')) {
-        window.location.href = '/CodeBoy-Portfollio';
-    }
-    document.cookie = 'reload=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/CodeBoy-Portfollio;';
-});
-
 var typed = new Typed("#text", {
     strings: ["Full-Stack Web Developer", "Freelancer", "Programmer"],
     typeSpeed: 100,
