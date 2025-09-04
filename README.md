@@ -43,9 +43,9 @@
    ```bash
    git clone https://github.com/umyanga2005/CodeBoy-Portfollio.git
    cd CodeBoy-Portfollio
-````
 
 2. Open `index.html` directly in your browser
+   ```bash
    **or** run with a local server (e.g., [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in VS Code).
 
 ---
