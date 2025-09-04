@@ -32,7 +32,7 @@
 
 <p align="center">
   <!-- Replace with your actual screenshot -->
-  <img src="[https://i.ibb.co/4g0GSWpc/Screenshot-from-2025-09-04-20-13-05.png](https://i.ibb.co/0VzS9qrk/Screenshot-from-2025-09-04-20-13-05.png)" alt="Portfolio Preview" style="border-radius:12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.2);" />
+  <img src="https://i.ibb.co/0VzS9qrk/Screenshot-from-2025-09-04-20-13-05.png" />
 </p>
 
 ---
