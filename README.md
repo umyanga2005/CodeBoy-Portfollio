@@ -32,7 +32,7 @@
 
 <p align="center">
   <!-- Replace with your actual screenshot -->
-  <img src="assets/screenshot.png" alt="Portfolio Preview" width="700px" style="border-radius:12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.2);" />
+  <img src="https://i.ibb.co/4g0GSWpc/Screenshot-from-2025-09-04-20-13-05.png" alt="Portfolio Preview" width="700px" style="border-radius:12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.2);" />
 </p>
 
 ---
@@ -77,8 +77,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 * 🌐 [Blog](https://umayanga-codeboy.blogspot.com/)
 * 💻 [GitHub](https://github.com/umyanga2005)
-* ✉️ \[Add your email or LinkedIn here if you want]
-
-
-Do you also want me to **add a GitHub languages pie chart** (instead of just the bar style) for more visual insight?
-```
